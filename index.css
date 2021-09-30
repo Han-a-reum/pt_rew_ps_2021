@@ -7,13 +7,10 @@ img {
 }
 
 body {
+  background-color: #EEF3FA;
   background-repeat: no-repeat;
   background-size: var(--site-width) auto;
-  height: 15120px;
-}
-
-body {
-  cursor: url(resource/cursor.cur), auto !important;
+  height: 10670px;
 }
 
 .site-wrap {
@@ -23,8 +20,8 @@ body {
 }
 
 /* section-1 */
-.bn_1_1 {
+.bn_1_1_2 {
   position: absolute;
-  top: 100px;
-  left: 177px;
+  top: 171px;
+  left: 333px;
 }
