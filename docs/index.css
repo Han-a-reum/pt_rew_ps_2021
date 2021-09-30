@@ -65,6 +65,7 @@ body {
   position: absolute;
   top: 9984px;
   left: 300px;
+  width: 1319px;
 }
 
 .mp4 {
@@ -72,13 +73,8 @@ body {
   z-index: -1;
 }
 
-video {
-  width: 100%;
-}
-
 .mp4_1 {
   width: 586px;
-  top: 1000px;
+  top: 10005px;
   left: 333px;
-  z-index: -1;
 }
