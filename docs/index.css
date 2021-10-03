@@ -6,6 +6,15 @@ img {
   display: block;
 }
 
+.return-top{
+  width:100px;
+  height:100px;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+
+
 body {
   background-color: #EEF3FA;
   background-repeat: no-repeat;
